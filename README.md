@@ -1,8 +1,8 @@
-- print("Hello friends!") >>> Hello friends! 👋
+- print("Hello friends! 👋") >>> Hello friends! 👋
 
-- I’m @zackbradys, also known as Zack Brady. Check out what I'm up to below or reach out!
+- I’m Zack Brady, also known as @zackbradys! Check out my repos or reach out to me.
 
-- Reach me by emailing me at [zbrady@zackbrady.com](mailto:zbrady@zackbrady.com) or by shooting a message to me on twitter [@zackbradys](https://twitter.com/zackbradys)!
+- Reach me by emailing me at [zbrady@zackbrady.com](mailto:zbrady@zackbrady.com) or send me a message on one of my socials!
 
 <!---
 zackbradys/zackbradys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
