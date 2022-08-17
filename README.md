@@ -1,6 +1,6 @@
 - print("Hello friends! 👋") >>> Hello friends! 👋
 
-- I’m Zack Brady, also known as @zackbradys! Check out my repos or reach out to me.
+- I’m Zack Brady, also known as @zackbradys. Welcome to my profile!
 
 - Reach me by emailing me at [zbrady@zackbrady.com](mailto:zbrady@zackbrady.com) or send me a message on one of my socials!
 
