@@ -1,10 +1,6 @@
-- print("Hello friends! 👋") >>> Hello friends! 👋
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zackbradys&theme=2077)
 
-- I’m Zack Brady, also known as @zackbradys. Welcome to my profile!
-
-- Reach me by emailing me at [zbrady@zackbrady.com](mailto:zbrady@zackbrady.com) or send me a message on one of my socials!
-
-<!---
-zackbradys/zackbradys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zackbradys&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zackbradys&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zackbradys&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zackbradys&theme=2077&utcOffset=-5)
